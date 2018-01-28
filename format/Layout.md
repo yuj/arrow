@@ -637,7 +637,7 @@ type: List<String>
 In dictionary-encoded form, this could appear as:
 ```
 data List<String> (dictionary-encoded, dictionary id i)
-indices: [0, 0, 0, 1, 1, 1, 0]
+indices: [0, 0, 0, 1, 1, 1, 1, 0]
 
 dictionary i
 
